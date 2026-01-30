@@ -137,7 +137,7 @@ ollama pull llama3.2:3b
 MIT
 
 ## Author
-[Your Name]
+Vasanth S
 
 ## Feedback
 Found this useful? Star ⭐ the repo!
